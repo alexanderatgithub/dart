@@ -12,7 +12,7 @@ The primary concepts baked into the making of the language were:
  - It is architecture-neutral and portable.
  - It executes with high performance for practical applications and not just benchmarks.
 
-Dart is a very versitile language that can be used in a variety of different ways:
+Dart is a very versatile language that can be used in a variety of different ways:
 
  - Dart code can be transpiled into JavaScript for [web development](https://webdev.dartlang.org/), typically using [AngularDart](https://webdev.dartlang.org/angular).
  - [Application servers](https://www.dartlang.org/dart-vm) can be written using Dart.
